@@ -6,9 +6,7 @@
 - 🔭 I built and maintain : [Blockchain@NTU Demo App](https://bnsdapp.herokuapp.com/) & [SendUSDC](https://sendusdc.net/) 
 - 🌱 I’m currently learning Javascript, Solidity, React and Defi.
 - 👯 I’m looking to collaborate and connect with other developers.
-- 🥅 2020 Goals: Build Defi project.
 - 📫 How to reach me: Drop me an Email - bernardchoo@pm.me
-- ⚡ Fun fact: I am a fun guy.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BernardChoo_)
